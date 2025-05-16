@@ -1,2 +1,2 @@
 # test-iframe
-test iframe for Odoo
+test iframe for Odoo and such
